@@ -1,7 +1,7 @@
 //
 const mongoose = require("mongoose");
 let dbcon =
-  "mongodb+srv://abcd:abcd@cluster0.57fajnv.mongodb.net/assign-student-mentor";
+  "mongodb+srv://hemasurve:HEMALATA@cluster0.hjlwvud.mongodb.net/assign-student-mentor";
 mongoose
   .connect(dbcon, {
     useNewUrlParser: true,
